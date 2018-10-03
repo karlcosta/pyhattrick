@@ -1,2 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE specific
+.idea/
+
+# Application specific
 pyhattrick/credentials.txt
-pyhattrick/*.pyc
